@@ -1,8 +1,5 @@
 # ArtisticFaces
 
-## Demo URL link: 
-https://ff0c6805f0b671d47c.gradio.live
-
 ## Overview
 
 This repo contains code for a machine learning based platform for transfering historical art styles like impressionism and realism into a user's uploaded/captured images in real-time using two different appraaches:
